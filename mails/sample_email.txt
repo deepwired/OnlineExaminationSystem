@@ -1,0 +1,10 @@
+From: examportal.mailer@gmail.com 
+To: deepwired@gmail.com 
+Subject: Hello World 
+
+This email was sent using MSMTP via Gmail/Yahoo.
+From: examportal.mailer@gmail.com 
+To: deepwired@gmail.com 
+Subject: Hello World 
+
+This email was sent using MSMTP via Gmail/Yahoo.
